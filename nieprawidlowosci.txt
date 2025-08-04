@@ -1,0 +1,1 @@
+Brak pacjentów z nierealnymi parametrami.

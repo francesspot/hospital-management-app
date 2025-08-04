@@ -1,0 +1,3 @@
+35500564583 Martyna Rogowski - parametry poza zakresem: Tętno, Temperatura ciała!
+37270843992 Olga Piekarski - parametry poza zakresem: Ciśnienie skurczowe, Ciśnienie rozkurczowe, Poziom cukru!
+61685629485 Jerzy Strzelczyk - parametry poza zakresem: Ciśnienie skurczowe, Poziom cukru, Temperatura ciała!

@@ -1,0 +1,3 @@
+1 5078735629 Zofia Szulc 120 Kobieta 162 86 130 79 76 97 99 392 2 Choroba wieńcowa
+2 19301091110 Grzegorz Jabłoński 6 Mężczyzna 99 20 110 65 103 93 52 408 3 Rana szarpana
+3 43104809410 Mateusz Marcinkowski 82 Mężczyzna 166 74 89 55 75 98 176 361 4 Złamanie biodra
